@@ -20,7 +20,7 @@
 ## This Week's Project Check:
 
 
-   Repository name: **naya-eda-project**, Folders and file names — ✅
+   Repository name: **nayas-eda-project**, Folders and file names — ✅
    using relative paths — ✅ 
    README completed — ✅
    Repository and links are public — ✅
